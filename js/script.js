@@ -18,7 +18,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     audio.volume = 0.2;
-    audio.muted = false;
   
     audio.play();
 
